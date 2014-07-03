@@ -158,32 +158,6 @@
      
 
 
-
-        <div class="footerwrap center">
-            <div class="container">
-                <div class="footer-help divide">
-                    <div class="row">
-                        <h1>We are here to help</h1>
-                        <h4>Would you like to learn what's happening in Cloud?</h4>
-                        <h4>Do you need help in migrating your applications to Linux?</h4>
-                        <h4>Would you like to increase the ranking of your website?</h4>
-                        <h4>Do you have any questions?</h4>
-                        <h4>Or any feedback?</h4>
-
-                        <div class="divide">
-                            <a href="mailto:info@javlin.co.in" class="btn btn-lg btn-simple">Get in touch</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="footer-nav">
-                    <div class="row company">
-                         2014 Javlin Informatics
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
         <!-- Include all compiled plugins (below), or include individual files as needed -->
